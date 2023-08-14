@@ -2,7 +2,6 @@
 
 > # Projeto: Técnicas de Programação I
 **Professor:** Jorge Chamby-Diaz
-**Link grupos projeto:** (https://docs.google.com/spreadsheets/d/17KHsbEaNYh7LPPdkDPtGVI9bNdNDjLnIDMX61ULkVlY/edit?usp=sharing)
 
 <center><h3>Projeto Santander Coders 2023 - DS<h3></center>
 

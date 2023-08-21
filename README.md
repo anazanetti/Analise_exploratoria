@@ -13,7 +13,7 @@ Este notebook contém a análise exploratória proposta pelo projeto do módulo 
 
 Para fazer esta análise exploratória, utilizamos os dados da ANP (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis do Brasil), contendo a série histórica dos preços dos combustíves de 2013 a 2023 e a série histórica do IPCA(Índice Nacional de Preços ao Consumidor Amplo) disponibilizada pelo IBGE(Instituto Brasileiro de Geografia e Estatística)
 
- >Obs.:Os arquivos cujos tamanhos excedem 100Mb estão compactados. Caso deseje clonar este repositório, será necessário descompactar esyes arquivos  dentro do diretório`datasets`.
+ >Obs.:Os arquivos cujos tamanhos excedem 100Mb estão compactados. Caso deseje clonar este repositório, será necessário descompactar estes arquivos  dentro do diretório`datasets`.
 
 ### **Bibliotecas**
 

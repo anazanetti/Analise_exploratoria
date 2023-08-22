@@ -17,7 +17,7 @@ Para fazer esta análise exploratória, utilizamos os dados da ANP (Agência Nac
 
 ### **Bibliotecas**
 
-Este notebook foi desenvolvimento em Jupiter e utiliza as bibliotecas abaixo:
+Este notebook foi desenvolvido em Jupiter e utiliza as bibliotecas abaixo:
 
 ```
  os
